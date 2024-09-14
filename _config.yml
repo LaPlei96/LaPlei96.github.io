@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=thdWJS0AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-9424-6762"
+  orcid            : "https://orcid.org/0009-0000-9424-6762"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://lu.linkedin.com/in/laura-plein-7a01a1212
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
