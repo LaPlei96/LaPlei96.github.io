@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Automatic generation of test cases based on bug reports: a feasibility study with large language models"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://dl.acm.org/doi/pdf/10.1145/3639478.3643119
+date: 2004
+venue: 'ICSE 24'
+citation: 'Plein, L., Ouédraogo, W. C., Klein, J., & Bissyandé, T. F. (2024, April). Automatic generation of test cases based on bug reports: a feasibility study with large language models. In Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (pp. 360-361)..'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

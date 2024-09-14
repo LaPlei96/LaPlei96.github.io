@@ -1,10 +1,10 @@
 ---
-title: "Ratgpt: Turning online llms into proxies for malware attacks"
+title: "Can llms demystify bug reports?"
 collection: publications
-permalink: https://arxiv.org/pdf/2308.09183
+permalink: https://arxiv.org/pdf/2310.06310
 date: 2023
-venue: 'Microsoft BlueHat 2023'
-citation: 'Beckerich, M., Plein, L., & Coronado, S. (2023). Ratgpt: Turning online llms into proxies for malware attacks. arXiv preprint arXiv:2308.09183..'
+venue: 'HITLAML'
+citation: 'Plein, L., & Bissyandé, T. F. (2023). Can llms demystify bug reports?. arXiv preprint arXiv:2310.06310.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
