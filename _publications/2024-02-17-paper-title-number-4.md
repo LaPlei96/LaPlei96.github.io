@@ -2,7 +2,7 @@
 title: "Ratgpt: Turning online llms into proxies for malware attacks"
 collection: publications
 permalink: https://arxiv.org/pdf/2308.09183
-date: 2023
+date: 2023-10-01
 venue: 'Microsoft BlueHat 2023'
 citation: 'Beckerich, M., Plein, L., & Coronado, S. (2023). Ratgpt: Turning online llms into proxies for malware attacks. arXiv preprint arXiv:2308.09183..'
 ---

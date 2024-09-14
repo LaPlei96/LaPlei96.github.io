@@ -2,7 +2,7 @@
 title: "Automatic generation of test cases based on bug reports: a feasibility study with large language models"
 collection: publications
 permalink: https://dl.acm.org/doi/pdf/10.1145/3639478.3643119
-date: 2004
+date: 2024-04-01
 venue: 'ICSE 24'
 citation: 'Plein, L., Ouédraogo, W. C., Klein, J., & Bissyandé, T. F. (2024, April). Automatic generation of test cases based on bug reports: a feasibility study with large language models. In Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (pp. 360-361)..'
 ---

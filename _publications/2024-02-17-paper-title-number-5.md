@@ -2,7 +2,7 @@
 title: "Can llms demystify bug reports?"
 collection: publications
 permalink: https://arxiv.org/pdf/2310.06310
-date: 2023
+date: 2023-09-01
 venue: 'HITLAML'
 citation: 'Plein, L., & Bissyandé, T. F. (2023). Can llms demystify bug reports?. arXiv preprint arXiv:2310.06310.'
 ---
