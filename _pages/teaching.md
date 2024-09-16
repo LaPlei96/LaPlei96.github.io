@@ -30,6 +30,7 @@ Currently I am an Adjunct Lecturer at the University of Luxembourg and a Teachin
 
 * 2023 - Teaching Assistant - IT Founders Lab 1 - Cybersecurity Master 
 
+<br><br>
 
 ## Luxembourg Tech School
 
