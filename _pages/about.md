@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Research Assistant at CISPA in the group of Prof. Zeller.
+I am currently working as a PhD Student at CISPA in the group of Prof. Zeller.
 My research focuses on learning the effects of software changes to build an automated tool for debugging, fault localization and automated program repair across programming languages. 
 
 I am also an Adjunct Lecturer at the University of Luxembourg, teaching in the Cyberus Master.
