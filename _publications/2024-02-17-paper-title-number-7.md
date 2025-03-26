@@ -2,7 +2,7 @@
 title: "Enriching automatic test case generation by extracting relevant test inputs from bug reports "
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-6
+permalink: /publication/2024-02-17-paper-title-number-7
 excerpt: ''
 date: 2025-03-04
 venue: 'EMSE'
