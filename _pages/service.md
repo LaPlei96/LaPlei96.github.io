@@ -6,7 +6,6 @@ markdown: true
 ---
 
 
-
 ## Conference Organization
 
 * [HITLAML 2023](https://hitlaml.uni.lu/) - (Publicity Chair)
@@ -18,7 +17,14 @@ markdown: true
 * [MSR 2025](https://2025.msrconf.org/) - (Junior PC)
 
 
+## Session Chair
+
+* [ISSTA 25](https://conf.researchr.org/track/issta-2025/issta-2025-papers#program) - (Evolution, Continuous Integration, and Deployment - Research Papers)
+
 
 ## Student Volunteer
 
 * [ASE 2023](https://conf.researchr.org/home/ase-2023)
+
+
+Further conference involvments can be found [here](https://conf.researchr.org/profile/lauraplein)
