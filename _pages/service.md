@@ -14,6 +14,7 @@ markdown: true
 
 ## Conference Program Committee Member
 
+* [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-shadow-research-track-program-committee) - (Shadow PC)
 * [MSR 2025](https://2025.msrconf.org/) - (Junior PC)
 
 
@@ -27,4 +28,4 @@ markdown: true
 * [ASE 2023](https://conf.researchr.org/home/ase-2023)
 
 
-Further conference involvments can be found [here](https://conf.researchr.org/profile/lauraplein)
+Further conference involvements can be found [here](https://conf.researchr.org/profile/lauraplein).
