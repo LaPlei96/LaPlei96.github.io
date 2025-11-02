@@ -14,8 +14,13 @@ markdown: true
 
 ## Conference Program Committee Member
 
-* [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-shadow-research-track-program-committee) - (Shadow PC)
+* [MSR 2026](https://2026.msrconf.org/track/msr-2026-junior-pc) - (Junior PC)
 * [MSR 2025](https://2025.msrconf.org/) - (Junior PC)
+
+
+## Journal Reviews
+
+* [Software Quality Journal 2025](https://link.springer.com/journal/11219)
 
 
 ## Session Chair
