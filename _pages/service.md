@@ -14,13 +14,16 @@ markdown: true
 
 ## Conference Program Committee Member
 
+* [MSR 2026](https://2026.msrconf.org/track/msr-2026-mining-challenge) - (PC)
 * [MSR 2026](https://2026.msrconf.org/track/msr-2026-junior-pc) - (Junior PC)
 * [MSR 2025](https://2025.msrconf.org/) - (Junior PC)
 
 
 ## Journal Reviews
 
-* [Software Quality Journal 2025](https://link.springer.com/journal/11219)
+* [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/TOSEM)
+* [Empirical Software Engineering](https://link.springer.com/journal/10664)
+* [Software Quality Journal](https://link.springer.com/journal/11219)
 
 
 ## Session Chair
