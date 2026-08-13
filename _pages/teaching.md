@@ -15,6 +15,8 @@ Currently I am an Adjunct Lecturer at the University of Luxembourg and a Teachin
 </div>
 {% endraw %}
 
+* 2026 - Modelling with UML - BINFO Bachelor - 3rd Semester
+* 2026 - Database Security - Cyberus & MCYSD Master - 3rd Semester
 * 2025 - Database Security - Cyberus Master - 3rd Semester
 * 2024 - Database Security - Cyberus Master - 3rd Semester
 * 2023 - Big Data - Binfo Bachelor - 5th Semester
