@@ -1,5 +1,5 @@
 ---
-title: "Learning the Effects of Software Changes"
+title: "PyMut4SE: Comprehensive Mutation Testing for Python"
 collection: publications
 category: conferences
 permalink: /publication/pymut4se
